@@ -7,13 +7,13 @@ import java.util.Date;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
 
+import com.entities.Note;
+import com.helper.FactoryProvider;
+
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
-
-import com.entities.Note;
-import com.helper.FactoryProvider;
 
 public class SaveNoteServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;

@@ -63,6 +63,9 @@
 				
 				</div>
 			</form>
+			<br>
+		<%@include file="footer.jsp"%>
 		</div>
+
 </body>
 </html>

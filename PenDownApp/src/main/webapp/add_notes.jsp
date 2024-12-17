@@ -36,5 +36,7 @@
 				<button type="submit" class="btn btn-primary">Add</button>
 			</div>
 		</form>
+		<br>
+				<%@include file="footer.jsp"%>
 </body>
 </html>

@@ -67,7 +67,8 @@
 
 				s.close();
 				%>
-
+			<br>
+			<%@include file="footer.jsp"%>
 			</div>
 		</div>
 

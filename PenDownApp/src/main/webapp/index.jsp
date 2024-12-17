@@ -10,6 +10,7 @@
 <%@include file="all_js_css.jsp"%>
 
 
+
 </head>
 <body>
 
@@ -37,6 +38,8 @@
 			
 			
 		</div>
+		<br>
+		<%@include file="footer.jsp"%>
 
 	</div>
 
